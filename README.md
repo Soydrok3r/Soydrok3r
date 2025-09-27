@@ -5,6 +5,9 @@
 Soy un profesional especializado en **desarrollo de aplicaciones web** (principalmente con **CodeIgniter 4**) y en **ciberseguridad** aplicada a entornos corporativos y gubernamentales.  
 Me dedico a la asesoría, consultoría y capacitación en temas de **seguridad digital, protección de activos y análisis de amenazas**.  
 
+![Banner](github-benner.png)
+
+
 ---
 
 ## 🚀 Sobre mí  
