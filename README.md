@@ -16,16 +16,6 @@ Me dedico a la asesoría, consultoría y capacitación en temas de **seguridad d
 
 ---
 
-## 🛠️ Tecnologías y Herramientas  
-
-- **Lenguajes & Frameworks:** PHP (CodeIgniter 4), JavaScript, Python  
-- **Bases de Datos:** MySQL, MariaDB  
-- **Infraestructura:** Ubuntu Server, WSL, Apache, Nginx  
-- **Ciberseguridad:** Nmap, SQLMap, Trape, OSINT Frameworks  
-- **Control de versiones:** Git & GitHub  
-
----
-
 ## 📌 Proyectos Destacados  
 
 - **SIGRE** → Sistema integral de gestión de aspirantes (registro, validación y seguridad documental).  
