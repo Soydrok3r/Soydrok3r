@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hola, soy Drok3r  
 
-<!--
-**Soydrok3r/Soydrok3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Ingeniero en Sistemas | Consultor en Ciberseguridad y Ciberinteligencia**  
 
-Here are some ideas to get you started:
+Soy un profesional especializado en **desarrollo de aplicaciones web** (principalmente con **CodeIgniter 4**) y en **ciberseguridad** aplicada a entornos corporativos y gubernamentales.  
+Me dedico a la asesoría, consultoría y capacitación en temas de **seguridad digital, protección de activos y análisis de amenazas**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí  
+
+- 🔐 Especialista en **Pentesting**, **OSINT/HUMINT/IMINT/SOCMINT** y **Gestión de Riesgos**.  
+- 🌐 Desarrollo de **aplicaciones web seguras** bajo estándares **OWASP**.  
+- 🛡️ Consultor en **Seguridad Ofensiva y Contrainteligencia Digital**.  
+- 📊 Experiencia en proyectos de **infraestructura crítica, seguridad privada y protección de información sensible**.  
+
+---
+
+## 🛠️ Tecnologías y Herramientas  
+
+- **Lenguajes & Frameworks:** PHP (CodeIgniter 4), JavaScript, Python  
+- **Bases de Datos:** MySQL, MariaDB  
+- **Infraestructura:** Ubuntu Server, WSL, Apache, Nginx  
+- **Ciberseguridad:** Nmap, SQLMap, Trape, OSINT Frameworks  
+- **Control de versiones:** Git & GitHub  
+
+---
+
+## 📌 Proyectos Destacados  
+
+- **SIGRE** → Sistema integral de gestión de aspirantes (registro, validación y seguridad documental).  
+- **Archivo Digital Michoacán** → Plataforma de gestión y firma electrónica avanzada de documentos PDF.  
+- **FinanzasApp** → Aplicación web de control financiero con CRUD, pólizas de ingreso/egreso y cálculo secuencial de saldos.  
+- **Efirma CI4** → Módulo de firma electrónica avanzada con validación de certificados, QR y sellado de tiempo.  
+
+---
+
+## 📫 Contáctame  
+
+- ✉️ Email: [soydrok3r@protonmail.com](mailto:soydrok3r@protonmail.com)  
+- 🌐 Web: *Próximamente*  
+- 🐦 Twitter/X: [@SoyDrok3r](https://x.com/SoyDrok3r)  
+- 💼 LinkedIn: [SoyDrok3r](https://www.linkedin.com/in/soydrok3r)  
+
+---
+
+⭐ **“La seguridad no es un producto, es un proceso constante.”**  
