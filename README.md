@@ -5,7 +5,14 @@
 Soy un profesional especializado en **desarrollo de aplicaciones web** (principalmente con **CodeIgniter 4**) y en **ciberseguridad** aplicada a entornos corporativos y gubernamentales.  
 Me dedico a la asesoría, consultoría y capacitación en temas de **seguridad digital, protección de activos y análisis de amenazas**.  
 
-![Banner](GitHub-Banner (1).png)
+### ⚡ Tecnologías con las que trabajo
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004C97?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 
 ---
