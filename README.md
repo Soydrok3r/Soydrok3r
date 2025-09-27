@@ -16,15 +16,6 @@ Me dedico a la asesoría, consultoría y capacitación en temas de **seguridad d
 
 ---
 
-## 📌 Proyectos Destacados  
-
-- **SIGRE** → Sistema integral de gestión de aspirantes (registro, validación y seguridad documental).  
-- **Archivo Digital Michoacán** → Plataforma de gestión y firma electrónica avanzada de documentos PDF.  
-- **FinanzasApp** → Aplicación web de control financiero con CRUD, pólizas de ingreso/egreso y cálculo secuencial de saldos.  
-- **Efirma CI4** → Módulo de firma electrónica avanzada con validación de certificados, QR y sellado de tiempo.  
-
----
-
 ## 📫 Contáctame  
 
 - ✉️ Email: [soydrok3r@protonmail.com](mailto:soydrok3r@protonmail.com)  
